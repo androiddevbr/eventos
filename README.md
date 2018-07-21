@@ -7,11 +7,11 @@ Datas, slides e vídeos de eventos da comunidade Android no Brasil.
 :----:|:----:|:-----:|:-----------:
 18/07/18 | [The Developer's Conference 2018](https://github.com/androiddevbr/eventos/blob/master/_eventos/2018-07-18-tdc.md) | São Paulo, SP | [site do evento](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-android-2)
 
-Clique no nome do evento para mais detalhes.
 
 <br>
 
----
+------------
+
 
 ### Como fazer Pull Request de um evento
 - Faça um fork, baixe ou clone o repositório `https://github.com/androiddevbr/eventos.git`.
@@ -20,11 +20,12 @@ Clique no nome do evento para mais detalhes.
 - Adicione a referência do evento no arquivo [`readme`](https://github.com/androiddevbr/eventos/blob/master/README.md), seguindo a ordem cronológica do mais atual no topo da lista.
 - Faça o Pull Request.
 
-**Obrigado pela contribuição!** :tada: 
+**Obrigado pela contribuição!** :tada:
 
 <br>
 
----
+------------
+
 
 ### Contato
 Para desenvolvedores que acharam a iniciativa interessante e quiserem se juntar e conhecer a comunidade de desenvolvedores Android brasileira, se cadastre no [Slack do AndroidDevBr](http://slack.androiddevbr.org/).
@@ -37,3 +38,4 @@ Siga-nos no [![alt text][1.1]][1][![alt text][2.1]][2]
 
 [1]: http://www.twitter.com/AndroidDevBrOrg
 [2]: https://github.com/androiddevbr
+
