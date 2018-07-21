@@ -4,9 +4,9 @@ Datas, slides e vídeos de eventos da comunidade Android no Brasil.
 
 ### Eventos - 2018
  Data | Nome | Local | Informações 
-:----:|:----:|:-----:|:-----------:
+:----:|:---- |:-----:|:-----------:
+20/10/18 | [AndroidFest 2018](https://github.com/androiddevbr/eventos/blob/master/_eventos/2018-10-20-androidfest-campinas.md) | Campinas, SP | [site do evento](https://gdg-campinas.github.io/androidfest/)
 18/07/18 | [The Developer's Conference 2018](https://github.com/androiddevbr/eventos/blob/master/_eventos/2018-07-18-tdc.md) | São Paulo, SP | [site do evento](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-android-2)
-
 
 <br>
 
@@ -38,4 +38,6 @@ Siga-nos no [![alt text][1.1]][1][![alt text][2.1]][2]
 
 [1]: http://www.twitter.com/AndroidDevBrOrg
 [2]: https://github.com/androiddevbr
+
+
 
