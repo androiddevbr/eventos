@@ -11,7 +11,7 @@ Datas, slides e vídeos de eventos da comunidade Android no Brasil.
 ### Eventos - 2017
 Data | Nome | Local | Informações 
 :----:|:---- |:-----:|:-----------:
-25/08/17 | [Android Dev Conference 2017](https://github.com/androiddevbr/eventos/blob/android-dev-conference-2017/_eventos/2017-08-25-android-dev-conference.md) | Campinas, SP | [site do evento](https://eventos.imasters.com.br/android-devconference/)
+25/08/17 | [Android Dev Conference 2017](https://github.com/androiddevbr/eventos/blob/android-dev-conference-2017/_eventos/2017-08-25-android-dev-conference.md) | São Paulo, SP | [site do evento](https://eventos.imasters.com.br/android-devconference/)
 
 <br>
 
